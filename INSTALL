@@ -1,0 +1,9 @@
+Building Squardcoin
+
+See doc/readme-qt.rst for instructions on building Squardcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Squardcoin.
+
+See doc/build-*.txt for instructions on building squardcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Squardcoin.
